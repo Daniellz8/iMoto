@@ -42,26 +42,6 @@ iMotos/
         * `js/`: Arquivos JavaScript.
             * `main.js`: O arquivo JavaScript principal.
 
-## Como Executar o Projeto Localmente (via Termux)
-
-Para visualizar e trabalhar no projeto `iMotos` no seu dispositivo Android usando o Termux:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SeuUsuario/iMotos.git](https://github.com/SeuUsuario/iMotos.git)
-    ```
-    *Substitua `SeuUsuario` pelo seu nome de usuário do GitHub.*
-    *Lembre-se de que, ao clonar, você precisará usar um Personal Access Token (PAT) como senha, devido às políticas de segurança do GitHub.*
-
-2.  **Navegue para a pasta do projeto:**
-    ```bash
-    cd iMotos
-    ```
-
-3.  **Abra o arquivo HTML:** Como se trata de um projeto front-end estático, você pode simplesmente abrir o arquivo `public/index.html` em qualquer navegador do seu dispositivo.
-
-    *Você também pode configurar um servidor HTTP simples no Termux (ex: `pkg install python && python -m http.server`) na pasta `public` para acessá-lo via `localhost`.*
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
