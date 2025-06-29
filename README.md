@@ -20,14 +20,20 @@ Nossa estrutura de pastas segue uma abordagem limpa e funcional, sem enumeraçã
 
 
 iMotos/
+
 ├── public/
+
 │   ├── index.html
+
 │   ├── assets/
+
 │   │   ├── images/
-│   │   ├── css/
+
+│   |   ├── css/
 │   │   │   └── main.css
 │   │   └── js/
 │   │       └── main.js
+
 ├── README.md
 ├── .gitignore
 ├── LICENSE
