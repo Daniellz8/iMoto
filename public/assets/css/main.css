@@ -1,0 +1,35 @@
+/* Config global */
+
+*  {
+    margin: 0px 4%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Topo */
+
+.topo {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 20px;
+}
+
+img {
+    width: 14%;
+}
+
+.barraDePesquisa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 40px;
+}
+
+.estiloBarra {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    padding: 0px 20px;
+}
